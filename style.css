@@ -1,0 +1,65 @@
+/* Global CSS */
+h2{
+    font-size: 20px;
+    margin: 0px;
+}
+h3{
+    font-size: 18px;
+    margin: 0px;
+}
+h4{
+    font-size: 16px;
+    margin: 0px;
+}
+p{
+    margin: 0px;
+}
+.bd-masthead {
+    padding: 3rem 0;
+}
+.header .profile-box{
+    
+    margin: auto;
+}
+
+.header .profile-box img{
+    margin: auto;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    display: block;
+    margin-bottom: 10px;
+    border: 5px solid #aaa;
+}
+.header .profile-box h1{
+    display: inline-block;
+    color: #fff;
+    padding: 6px 20px;
+    text-transform: uppercase;
+    border-radius: 15px;
+    background: #4d0ccd;
+    font-size: 30px;
+}
+.pillbage{
+    font-size: 20px;
+}
+.badge-1{
+    color: #fff;
+    background-color: #4d0ccd;
+}
+.badge-2{
+    color: #fff;
+    background-color: #53064a;
+}
+.badge-3{
+    color: #000;
+    background-color: #ffe484;
+}
+.badge-4{
+    color: #fff;
+    background-color: #e6136e;
+}
+.badge-5{
+    color: #000;
+    background-color: #61dafb;
+}
